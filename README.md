@@ -1,7 +1,7 @@
 # NutriQuery
- Um sistema _básico_ com uma **lógica incrível** de finalização de consultas
+ Um sistema _básico_ com uma **lógica incrível** utilizando uma finalização de consultas
 
- **Onde uma consulta é finalizada apenas que nos dados da consulta, ela esteje atualizada como uma consulta finalizada.**
+ **Onde uma consulta é finalizada apenas quando os dados da consulta esteja como uma consulta não finalizada.**
  **Embora o sistema te interrompa e não deixe que você faça uma alteração já existente!** 
 
  - [x] Fácil entendimento
